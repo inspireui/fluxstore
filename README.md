@@ -10,14 +10,14 @@ Faster- Smoother- Closer.
 <img
 src="https://trello.com/1/cards/5d7f06d59a65b90befb190ac/attachments/64d20a52bfd3c25801bc8980/previews/64d20a53bfd3c25801bc899a/download/FluxWoo082023.png" />
 
-Fluxstore WooCommerce - Flutter E-commerce Full App - 2
-Demo	iOS, Android, Video
-Preview Video	WooCommerce
-Showcase	our Clients’ Apps, Videos
 Web demo	https://web.fluxstore.app
+
 Plugins	https://app.inspireui.com/woocommerce/plugins
-Document guide	the latest guide, trial
+
 Youtube Channel	https://www.youtube.com/inspireui
+
 Medium Blog	https://medium.com/inspireui
+
 Official Site	https://fluxstore.app
+
 Company Site	https://inspireui.com
